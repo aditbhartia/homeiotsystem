@@ -1,4 +1,4 @@
-## Light Sensor IoT System - Adit + Mia
+## Light Sensor IoT System
 
 This is the final project for my IoT class that I worked on with a classmate. 
 
